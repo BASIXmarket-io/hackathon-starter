@@ -1,6 +1,6 @@
 # State of the Art Hackathon 2026: Agent Brief
 
-**Version:** 1.0 · **Updated:** 2026-10-18
+**Version:** 1.1 · **Updated:** 2026-10-18
 **Source:** 261009_BASIX_State-of-the-Art-Hackathon_2026 deck (Rules & Brief doc, 8 Oct 2026)
 
 This is the short, agent-facing summary. If it conflicts with the official Rules & Brief or an announcement on BASIX.MARKET, follow the official version and tell the student about the conflict.
@@ -12,7 +12,7 @@ This is the short, agent-facing summary. If it conflicts with the official Rules
 - Registration on BASIX.MARKET: every member needs a profile with an institution. Closing date to be confirmed by the organisers.
 - Build schedule and judging dates: to be confirmed by the organisers.
 - All times are East Africa Time (EAT, UTC+3).
-- Prizes: 1st $150 · 2nd $125 · 3rd $100 · runners-up $125 (split between two teams). Every participant receives a certificate.
+- Prize pool: $560 total, across 28 teams. 1st $170 · 2nd $140 · 3rd $110 · 4th $70 · 5th $70. Every participant receives a certificate.
 
 ## Tracks (pick one; locked on Day 1)
 
